@@ -1,6 +1,6 @@
 ## Text To Speech Converter
 
-This project is a simple web application that converts text input into speech using the Web Speech API. It utilizes the SpeechSynthesisUtterance() interface to handle the conversion process. The application allows users to enter text, select a voice from a dropdown menu, and listen to the converted speech. The project demonstrates the use of JavaScript for handling the text-to-speech functionality and dynamically populating the voice options.
+This project is a simple web application that converts text input into speech using the Web Speech API. It utilizes the SpeechSynthesisUtterance() interface to handle the conversion process. The application allows users to enter text, select a voice from a dropdown menu, and listen to the converted speech. The project demonstrates the use of JavaScript for handling the text-to-speech functionality and dynamically populating the voice options.We can also select the voice we need.
 
 **Features**
 - **Text Input**: Users can input any text they want to convert to speech.
