@@ -17,11 +17,6 @@ This project is a simple web application that converts text input into speech us
 2. Select a voice from the dropdown menu.
 3. Click the "Listen" button to hear the text spoken aloud.
 
-**Files**
-- `index.html`: The main HTML file containing the structure of the web application.
-- `style.css`: The CSS file for styling the web application.
-- `script.js`: The JavaScript file that handles the text-to-speech functionality.
-
 
 
 -Thank you for checking out our Text To Speech Converter project! We hope you find it useful and informative. Feel free to explore the code and contribute to the project. Your feedback and suggestions are always welcome.
